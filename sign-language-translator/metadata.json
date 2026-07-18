@@ -1,0 +1,6 @@
+{
+  "name": "Sign Language Translator",
+  "description": "An AI-powered real-time tracking camera and sign language recognition engine that captures hand skeletal coordinates and translates gestures instantly.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
